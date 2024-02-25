@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin-bottom: 60%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.btn {
+    display: block;
+    margin: 0 auto;
+}
+
+.btnsScroll {
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+}
